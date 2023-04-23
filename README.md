@@ -1,6 +1,10 @@
 # pj_gr_t ITDS 283 : Restaurant Booking App
 
-A new Flutter project.
+Member Group T :  
+    6487011 Sujasinee Kodcharin  
+    6487045 Poramaporn Plaipool  
+    6487066 Hareuthai Autthasom 
+    6487092 Keeratikorn Kumeak
 
 ## Getting Started
 
