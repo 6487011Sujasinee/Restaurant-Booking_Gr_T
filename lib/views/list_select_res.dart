@@ -18,12 +18,7 @@ class DataListRestaurantsState extends State<DataListRestaurants> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      // appBar: AppBar(
-      //   backgroundColor: Color(0xff780000),
-      //   title: Text("All Restaurants"),
-      // ),
       body: Expanded(
-        //
         child: Obx(() {
           if (restaurantController.isLoading.value)
             return Center(child: CircularProgressIndicator());

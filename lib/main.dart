@@ -1,7 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:pj_gr_t/views/select_res.dart';
-import 'package:pj_gr_t/views/Detail_Res/detail_red.dart';
-import 'package:pj_gr_t/views/Detail_Res/detail_siri.dart';
 import 'package:pj_gr_t/views/reviewbooking.dart';
 import 'package:pj_gr_t/views/reservation_details.dart';
 import 'package:pj_gr_t/views/home.dart';

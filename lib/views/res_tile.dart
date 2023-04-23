@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:pj_gr_t/models/callapi.dart';
 import 'package:getwidget/getwidget.dart';
-import 'package:pj_gr_t/views/Detail_Res/detail_red.dart';
 import 'package:pj_gr_t/views/list_select_res.dart';
 import 'package:pj_gr_t/views/reservation_details.dart';
 

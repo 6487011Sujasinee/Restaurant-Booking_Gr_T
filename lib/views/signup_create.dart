@@ -1,9 +1,4 @@
 import 'package:flutter/material.dart';
-
-// import 'package:flutter/material.dart';
-// import 'package:pj_gr_t/signin_screen.dart';
-// import 'package:pj_gr_t/signup_screen.dart';
-// import 'package:pj_gr_t/signup_create.dart';
 import 'package:flutter_form_builder/flutter_form_builder.dart';
 import 'package:get/get.dart';
 import 'package:pj_gr_t/views/signin_screen.dart';
