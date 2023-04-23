@@ -1,4 +1,4 @@
-# pj_gr_t
+# pj_gr_t ITDS 283 : Restaurant Booking App
 
 A new Flutter project.
 
