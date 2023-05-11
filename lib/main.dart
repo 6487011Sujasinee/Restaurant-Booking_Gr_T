@@ -6,6 +6,7 @@ import 'package:pj_gr_t/views/complete_res.dart';
 import 'package:pj_gr_t/views/signup_create.dart';
 import 'package:pj_gr_t/views/signup_screen.dart';
 import 'package:pj_gr_t/views/select_restaurant.dart';
+import 'package:pj_gr_t/views/validate_book.dart';
 
 void main() {
   runApp(const MyApp());
@@ -21,8 +22,6 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       routes: <String, WidgetBuilder>{
         "/": (BuildContext context) => HomeScreen(),
-        // "/": (BuildContext context) => DataSelectionRestaurants(),
-        //  "/": (BuildContext context) => SignupCreate(),
       },
       initialRoute: "/",
     );

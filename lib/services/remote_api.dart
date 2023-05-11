@@ -19,3 +19,4 @@ class RemoteServices {
   }
   static fetchRestaurants() {}
 }
+
